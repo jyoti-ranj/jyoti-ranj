@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM0MjQzMGNiM2Y1ZWM5MzBkMzU2MzM4MmRkNjg2ZTJlNzI0YmNlNyZjdD1n/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="600" height="300"/>
 </div>
 
 # 👨‍💻 Jyoti Ranjan Sethi | Full Stack Developer
@@ -32,7 +32,12 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://media3.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" alt="HTML5">
+  <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS3">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript">
+  <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="Node.js">
+  <img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git">
 </p>
 
 <details>
