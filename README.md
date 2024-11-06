@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
 # 👨‍💻 Jyoti Ranjan Sethi | Full Stack Developer
@@ -32,7 +32,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML5">
+  <img src="https://media3.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" alt="HTML5">
   <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS3">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript">
   <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React">
