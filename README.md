@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/10SvWCbt1ytWCc/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 # 👨‍💻 Jyoti Ranjan Sethi | Full Stack Developer
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 I'm a passionate Full Stack Developer, dedicated to creating engaging, user-friendly applications. My journey in tech is driven by curiosity and the love for innovation. Currently, I'm:
 
@@ -94,7 +94,7 @@ I'm a passionate Full Stack Developer, dedicated to creating engaging, user-frie
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://media.giphy.com/media/9JgeZ0qNA8bWzYQYI4/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="400" height="200">
 </div>
 
 ### Black Box | Full Stack Developer
@@ -114,10 +114,11 @@ I'm a passionate Full Stack Developer, dedicated to creating engaging, user-frie
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyoti-ranj&show_icons=true&theme=radical" alt="Jyoti's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyoti-ranj&theme=radical" alt="Jyoti's GitHub Profile Details"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyoti-ranj&show_icons=true&theme=radical" alt="Jyoti's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-ranj&theme=radical" alt="Jyoti's GitHub Streak" />
 </p>
 
