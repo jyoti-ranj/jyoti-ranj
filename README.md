@@ -28,6 +28,10 @@ I am a passionate **Full Stack Developer** with a knack for building scalable an
 - 👯 I’m looking to collaborate with developers on **open-source projects** and **innovative ideas**.
 - 📫 How to reach me: [jrs15jan2000@gmail.com](mailto:jrs15jan2000@gmail.com)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/5wXy28E3jmBa0/giphy.gif" width="400" height="200" alt="Coding in Nature" />
+</div>
+
 ---
 
 ## 🛠️ **Tech Stack**
@@ -44,6 +48,10 @@ I am a passionate **Full Stack Developer** with a knack for building scalable an
   <img src="https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/TI4aHtNQxMMHtvL76S/giphy.gif" width="400" height="200" alt="Tech Stack GIF" />
+</div>
+
 ---
 
 ## 💼 **My Projects**
@@ -52,6 +60,10 @@ I am a passionate **Full Stack Developer** with a knack for building scalable an
 **Tech Stack**: Node.js, Express, MongoDB, Docker  
 A scalable healthcare microservice system designed to handle complex workflows for patient management.  
 [GitHub Repo](https://github.com/jyoti-ranj/Healthcare_Microservice)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QpP1BqM/giphy.gif" width="400" height="200" alt="Microservices GIF" />
+</div>
 
 ### **E-Commerce Platform (Amazon Clone)**
 **Tech Stack**: React, Node.js, MongoDB, Express.js  
@@ -92,6 +104,10 @@ DRIEMS University, Cuttack, Odisha (2018 - 2022)
 - **Cloud Computing**
 - **Machine Learning**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/htDHOvZCGFP5yN1l5g/giphy.gif" width="300" height="200" alt="Machine Learning GIF" />
+</div>
+
 ---
 
 ## 📬 **Let's Connect!**
@@ -100,9 +116,9 @@ DRIEMS University, Cuttack, Odisha (2018 - 2022)
 - 📫 **Email**: [jrs15jan2000@gmail.com](mailto:jrs15jan2000@gmail.com)
 - 🐦 **Twitter**: [@jyoti_ranj](https://twitter.com/jyoti_ranj)
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100" alt="Connection GIF" />
-</p>
+</div>
 
 ---
 
