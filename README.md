@@ -32,9 +32,9 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" alt="HTML5">
+  <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML5">
   <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS3">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" alt="JavaScript">
+  <img src="https://media3.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="100" alt="JS">
   <img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" alt="React">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="Node.js">
   <img src="https://media3.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="Git">
