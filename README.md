@@ -8,6 +8,14 @@
 
 # 👨‍💻 Jyoti Ranjan Sethi | Full Stack Developer
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/mail.png" alt="Email" width="40" height="40"/></a>
+  <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="40" height="40"/></a>
+  <a href="https://twitter.com/jyoti_ranjan_se"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/jyoti_ranjan_se/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+</p>
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -22,18 +30,6 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jyoti-ranj&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-ranj" />
 </p>
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.icons8.com/ios-filled/50/D14836/google-mail.png" alt="Email" width="40" height="40"/></a>
-  <a href="https://github.com/jyoti-ranj"><img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="40" height="40"/></a>
-  <a href="https://twitter.com/jyoti_ranjan_se"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/jyoti_ranjan_se/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
-</p>
-
 
 ## 🛠️ My Tech Toolbox
 
