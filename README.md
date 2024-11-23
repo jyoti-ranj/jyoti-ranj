@@ -29,6 +29,17 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
   <img src="https://komarev.com/ghpvc/?username=jyoti-ranj&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti-ranj" />
 </p>
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/jyoti-ranj"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=Google%20Chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://twitter.com/jyoti_ranjan_se"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/jyoti_ranjan_se/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
 ## 🛠️ My Tech Toolbox
 
 <p align="center">
