@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
- <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.icons8.com/ios-filled/50/EA4335/google.png" alt="Gmail" width="40" height="40"/></a>
+ <a href="mailto:jrs15jan2000@gmail.com"><img src="[https://img.icons8.com/ios-filled/50/EA4335/google.png](https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000)" alt="Gmail" width="40" height="40"/></a>
   <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="40" height="40"/></a>
   <a href="https://twitter.com/jyoti_ranjan_se"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
   <a href="https://www.instagram.com/jyoti_ranjan_se/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
