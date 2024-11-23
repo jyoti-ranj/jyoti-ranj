@@ -13,8 +13,8 @@
   <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.icons8.com/ios-filled/50/EA4335/google.png" alt="Gmail" width="40" height="40"/></a>
   <a href="https://github.com/jyoti-ranj"><img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="40" height="40"/></a>
   <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="40" height="40"/></a>
-  <a href="https://twitter.com/jyoti_ranjan_se"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/jyoti_ranjan_se/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://x.com/grin_with_heart?t=Tf6kHaaP5Qky02a_x32oYg&s=09"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="[https://www.instagram.com/jyoti_ranjan_se/](https://www.instagram.com/jyoti_ranjan15/profilecard/?igsh=MXBmdGc5bWY4ZmRiMg==)"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
 </p>
 
 
