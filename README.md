@@ -1,27 +1,30 @@
+<h1 align="center">
+  <div align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" alt="Coding Animation"/>
+  </div>
+  Welcome to Jyoti Ranjan Sethi's Tech Universe!
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Jyoti+Ranjan+Sethi's+Profile!;Full+Stack+Developer;Passionate+Learner;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+Learner;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
 
-# 👨‍💻 Jyoti Ranjan Sethi | Full Stack Developer
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.icons8.com/ios-filled/50/EA4335/google.png" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://github.com/jyoti-ranj"><img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" width="40" height="40"/></a>
-  <a href="https://x.com/grin_with_heart?t=Tf6kHaaP5Qky02a_x32oYg&s=09"><img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/jyoti_ranjan15/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
-</p>
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jyoti-ranjan-sethi-355a84205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jrs15jan2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/jyoti-ranj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://portfolio-jrs.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"/></a>
+  <a href="https://x.com/jyotiranjan_15"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/jyoti_ranjan15/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a passionate Full Stack Developer with a knack for creating responsive, user-centric web applications. My journey in tech is driven by a constant desire to learn and innovate. Currently, I'm:
 
@@ -36,6 +39,10 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 
 ## 🛠️ My Tech Toolbox
 
+<div align="center">
+  <img src="https://media.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif" width="400" height="200" alt="Tech Tools">
+</div>
+
 <p align="center">
   <img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="HTML5">
   <img src="https://media3.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" alt="CSS3">
@@ -46,7 +53,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>🔧 Languages and Tools</summary>
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -88,11 +95,11 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 ## 🏆 Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" height="200" alt="Project Management">
 </div>
 
 <details>
-<summary>Healthcare Microservice System</summary>
+<summary>🏥 Healthcare Microservice System</summary>
 
 - **Repository**: [Healthcare_Microservice](https://github.com/jyoti-ranj/Healthcare_Microservice)
 - **Tech Stack**: JavaScript, Node.js, Express.js
@@ -104,7 +111,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </details>
 
 <details>
-<summary>Vite Project - Modern Web Development</summary>
+<summary>⚡ Vite Project - Modern Web Development</summary>
 
 - **Repository**: [vite-project](https://github.com/jyoti-ranj/vite-project)
 - **Tech Stack**: JavaScript, Vite, React
@@ -116,7 +123,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </details>
 
 <details>
-<summary>30DC_tailwind - Tailwind CSS Challenge</summary>
+<summary>🎨 30DC_tailwind - Tailwind CSS Challenge</summary>
 
 - **Repository**: [30DC_tailwind](https://github.com/jyoti-ranj/30DC_tailwind)
 - **Tech Stack**: HTML, Tailwind CSS
@@ -125,7 +132,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </details>
 
 <details>
-<summary>30DCProject_3 & Planetsell_30DC-project</summary>
+<summary>🚀 30DCProject_3 & Planetsell_30DC-project</summary>
 
 - **Repositories**: 
   - [30DCProject_3](https://github.com/jyoti-ranj/30DCProject_3)
@@ -139,7 +146,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </details>
 
 <details>
-<summary>E-commerce Human</summary>
+<summary>🛒 E-commerce Human</summary>
 
 - **Repository**: [ecommerce-Human](https://github.com/jyoti-ranj/ecommerce-Human)
 - **Tech Stack**: HTML, CSS, JavaScript
@@ -151,7 +158,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </details>
 
 <details>
-<summary>Portfolio Website</summary>
+<summary>🌐 Portfolio Website</summary>
 
 - **Repository**: [Portfolio-Website](https://github.com/jyoti-ranj/Portfolio-Website)
 - **Tech Stack**: HTML, CSS, JavaScript
@@ -165,7 +172,7 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 ## 💼 Professional Journey
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200" alt="Professional Growth">
 </div>
 
 ### Black Box | Full Stack Developer
@@ -179,6 +186,10 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 
 ## 🎓 Education & Continuous Learning
 
+<div align="center">
+  <img src="https://media.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif" width="400" height="200" alt="Continuous Learning">
+</div>
+
 - **Bachelor of Technology** in Computer Science and Engineering
   DRIEMS University, Cuttack, Odisha, India (2018 - 2022)
 
@@ -190,17 +201,25 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyoti-ranj&show_icons=true&theme=radical" alt="Jyoti's GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-ranj&theme=radical" alt="Jyoti's GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-ranj&layout=compact&theme=radical" alt="Jyoti's Top Languages" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyoti-ranj&theme=radical" alt="Jyoti's GitHub Stats Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jyoti-ranj&theme=radical&row=1&column=7" alt="Jyoti's GitHub Trophies" />
+</div>
 
 ---
 
@@ -213,3 +232,4 @@ I'm a passionate Full Stack Developer with a knack for creating responsive, user
 </p>
 
 <p align="center">⭐️ From [Jyoti Ranjan Sethi](https://github.com/jyoti-ranj)</p>
+
