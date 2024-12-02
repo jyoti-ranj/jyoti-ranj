@@ -2,7 +2,7 @@
   <div align="center">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" alt="Coding Animation"/>
   </div>
-  Welcome to Jyoti Ranjan Sethi's Tech Universe!
+  Welcome to Jyoti Ranjan Sethi's Profile!
 </h1>
 
 <p align="center">
